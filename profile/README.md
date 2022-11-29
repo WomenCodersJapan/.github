@@ -2,7 +2,7 @@
 
 Welcome to Women Who Code Tokyo's GitHub!
 
-Women Who Code 東京へよろしくお願いします！！！
+Women Who Code 東京のGitHubへよろしくお願いします！！！
 
 ## About Us
 

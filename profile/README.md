@@ -19,4 +19,6 @@ Women Who Code 東京のGitHubへよろしくお願いします！！！
 
 ## Donate
 
+[Open Collective](https://opencollective.com/wwcodetokyo)
+
 ![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/wwcodetokyo)

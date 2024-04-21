@@ -1,6 +1,4 @@
-Welcome to Women Who Code Tokyo's GitHub!
-
-Women Who Code 東京のGitHubへよろしくお願いします！！！
+Welcome to Women in Software Engineering Japan's GitHub!
 
 ## About Us
 

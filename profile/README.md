@@ -2,15 +2,12 @@ Welcome to Women in Software Engineering Japan's GitHub!
 
 ## About Us
 
-Coming soon!
-- [Public Wiki](https://www.notion.so/wwcode/Women-Who-Code-Tokyo-Public-Wiki-d2c50cd1917c4771a1c80280e1736b19)
+https://womeninsoftware.jp 
 
 ## Social Media & More
 
-- [Instagram](https://www.instagram.com/wwcode_tokyo/)
-- [Facebook](https://www.facebook.com/wwcode.tokyo)
-- [YouTube](https://www.youtube.com/@WomenWhoCode)
-
+- [Instagram](https://www.instagram.com/womeninsoftwarejp/)
+- [LinkedIn](https://www.linkedin.com/company/womeninsoftwarejp/)
 
 ## Donate
 

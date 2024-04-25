@@ -8,6 +8,7 @@ https://womeninsoftware.jp
 
 - [Instagram](https://www.instagram.com/womeninsoftwarejp/)
 - [LinkedIn](https://www.linkedin.com/company/womeninsoftwarejp/)
+- [Facebook](https://www.facebook.com/womeninsoftwarejp/)
 
 ## Donate
 
